@@ -1,5 +1,5 @@
 <?php 
-/**
+    /**
     * Catalog Product Rewrite Helper
     *
     * @category    QaisarSatti
