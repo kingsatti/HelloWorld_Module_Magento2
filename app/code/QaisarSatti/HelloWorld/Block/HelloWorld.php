@@ -1,5 +1,13 @@
 <?php 
-
+/**
+    * Catalog Product Rewrite Helper
+    *
+    * @category    QaisarSatti
+    * @package     QaisarSatti_HelloWorld
+    * @author      Muhammad Qaisar Satti
+    * @Email       qaisarssatti@gmail.com
+    *
+    */
 
 namespace QaisarSatti\HelloWorld\Block;
 
