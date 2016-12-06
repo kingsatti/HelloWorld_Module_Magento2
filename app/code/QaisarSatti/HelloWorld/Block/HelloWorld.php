@@ -1,6 +1,6 @@
 <?php 
     /**
-    * Catalog Product Rewrite Helper
+    * Simple Hello World Module 
     *
     * @category    QaisarSatti
     * @package     QaisarSatti_HelloWorld
